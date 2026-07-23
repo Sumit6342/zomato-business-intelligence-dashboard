@@ -2,6 +2,12 @@
 
 Interactive Business Intelligence Dashboard built using **Tableau**, **SQL**, and **Python** to analyze restaurant performance, customer preferences, ratings, cuisines, online ordering trends, and booking behavior.
 
+![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?style=for-the-badge&logo=Tableau)
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql)
+![SQL](https://img.shields.io/badge/SQL-Analytics-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 ---
 
 ## 📷 Dashboard Preview
@@ -156,12 +162,11 @@ SQL was used to perform business analysis including:
 
 ---
 
-## 🌐 Tableau Public Dashboard
+## 🌐 Live Dashboard
 
-**View Interactive Dashboard**
+🔗 Tableau Public Dashboard
 
-👉 *(https://public.tableau.com/app/profile/sumit.mallick6538/viz/zomato_business_intelligence_dashboard/ZomatoBusinessIntelligenceDashboard)*
-
+https://public.tableau.com/app/profile/sumit.mallick6538/viz/zomato_business_intelligence_dashboard/ZomatoBusinessIntelligenceDashboard
 ---
 
 ## ⚙️ Installation & Usage
