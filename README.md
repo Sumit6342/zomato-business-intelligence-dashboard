@@ -123,7 +123,7 @@ SQL was used to perform business analysis including:
 
 ### ⭐ Average Rating by Location
 
-![Rating](Screenshots/dashboard_filtered_location.png)
+![Rating](Screenshots/dashboard_filtered_locations.png)
 
 ---
 
