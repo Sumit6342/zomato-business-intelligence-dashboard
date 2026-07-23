@@ -1,5 +1,4 @@
 # 🍽️ Zomato Business Intelligence Dashboard
-
 Interactive Business Intelligence Dashboard built using **Tableau**, **SQL**, and **Python** to analyze restaurant performance, customer preferences, ratings, cuisines, online ordering trends, and booking behavior.
 
 ![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?style=for-the-badge&logo=Tableau)
