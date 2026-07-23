@@ -69,32 +69,44 @@ The dashboard helps answer questions like:
 
 ## 📁 Project Structure
 
-zomato-business-intelligence-dashboard/
+```text
+zomato-business-intelligence-dashboard
 │
-├── Dashboard/
-│ └── zomato_business_intelligence_dashboard.twbx
+├── 📂 Dashboard
+│   └── zomato_business_intelligence_dashboard.twbx
+│      └── Interactive Tableau dashboard workbook
 │
-├── Dataset/
-│ ├── restaurant_summary.csv
-│ └── cuisine_split.csv
+├── 📂 Dataset
+│   ├── restaurant_summary.csv
+│   │   └── Cleaned restaurant-level dataset
+│   └── cuisine_split.csv
+│       └── Cuisine-wise normalized dataset
 │
-├── Python/
-│ └── data_cleaning.ipynb
+├── 📂 Python
+│   └── data_cleaning.ipynb
+│       └── Data cleaning & preprocessing using Pandas
 │
-├── SQL/
-│ ├── restaurant_summary.sql
-│ ├── cuisine_split.sql
-│ └── business_queries.sql
+├── 📂 SQL
+│   ├── restaurant_summary.sql
+│   │   └── SQL queries for restaurant-level analysis
+│   ├── cuisine_split.sql
+│   │   └── SQL queries for cuisine analysis
+│   └── business_queries.sql
+│       └── Business insights and KPI queries
 │
-├── Screenshots/
-│ ├── dashboard_overview.png
-│ ├── dashboard_filtered_location.png
-│ ├── top_cuisines.png
-│ ├── top_restaurant_types.png
-│ └── customer_votes.png
+├── 📂 Screenshots
+│   ├── dashboard_overview.png
+│   ├── dashboard_filtered_location.png
+│   ├── top_restaurant_types.png
+│   ├── top_cuisines.png
+│   └── customer_votes.png
 │
-└── README.md
-
+├── 📄 README.md
+│   └── Project documentation
+│
+└── 📄 LICENSE
+    └── MIT License
+```
 ---
 
 ## 🧹 Data Cleaning
